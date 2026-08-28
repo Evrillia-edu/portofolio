@@ -48,6 +48,7 @@ export default function Contact({ lang }: ContactProps) {
       url: "mailto:hitmeup.evrill@gmail.com",
       username: "hitmeup.evrill@gmail.com",
     },
+    
   ];
 
   return (
@@ -110,7 +111,7 @@ export default function Contact({ lang }: ContactProps) {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-palm/10 text-center text-xs text-palm/60 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p>© 2026 {content.copyRight}</p>
-          <p className="font-semibold text-garnet">Designed & Built with Next.js & Tailwind CSS</p>
+          <p className="font-semibold text-garnet">Built with love, excitement, and creativity</p>
         </div>
       </div>
     </footer>
