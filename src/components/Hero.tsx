@@ -10,7 +10,7 @@ export default function Hero({ lang }: { lang: "EN" | "ID" }) {
       headlinePart1: "Bridging ",
       headlinePart2: "Data Science",
       headlinePart3: " & Interactive Technology.",
-      sub: "Junior Data Analyst @ PT Indosat Ooredoo Hutchison | Full-Stack Developer | IoT & Public Speaker.",
+      sub: "Data Scientist Intern @ PT Indosat Ooredoo Hutchison | Full-Stack Developer | IoT & Public Speaker.",
       scroll: "Scroll down to explore",
     },
     ID: {
@@ -18,8 +18,8 @@ export default function Hero({ lang }: { lang: "EN" | "ID" }) {
       headlinePart1: "Menghubungkan ",
       headlinePart2: "Sains Data",
       headlinePart3: " & Teknologi Interaktif.",
-      sub: "Junior Data Analyst @ PT Indosat Ooredoo Hutchison | Full-Stack Developer | IoT & Public Speaker.",
-      scroll: "Gulir ke bawah untuk eksplorasi",
+      sub: "Data Scientist Intern @ PT Indosat Ooredoo Hutchison | Full-Stack Developer | IoT & Public Speaker.",
+      scroll: "Geser ke bawah untuk mengetahui lebih lanjut",
     },
   };
 

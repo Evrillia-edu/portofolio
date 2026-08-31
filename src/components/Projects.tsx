@@ -28,7 +28,7 @@ export default function Projects({ lang }: ProjectsProps) {
       },
       {
         title: "Freelance Robotics Teacher",
-        category: "Sekolah Programming Indonesia",
+        category: "Professional Experience",
         description: "Teaching foundational programming and robotics assembly to spark tech interest in young learners.",
         tech: ["Robotics", "Logic & Algo", "Hardware", "Teaching"],
         bgCard: "bg-[#D9F99D]", // Hijau pastel cerah
@@ -54,7 +54,7 @@ export default function Projects({ lang }: ProjectsProps) {
       },
       {
         title: "Pengajar Robotika (Freelance)",
-        category: "Sekolah Programming Indonesia",
+        category: "Pengalaman Profesional",
         description: "Mengajar pemrograman dasar dan rakitan robotika untuk memicu minat teknologi pada generasi muda.",
         tech: ["Robotics", "Logic & Algo", "Hardware", "Teaching"],
         bgCard: "bg-[#D9F99D]", // Hijau pastel cerah

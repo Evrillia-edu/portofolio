@@ -45,8 +45,8 @@ export default function Gallery({ lang }: GalleryProps) {
         desc: "Personal branding & creative portfolio.",
       },
       {
-        src: "/images/PEMIRA.JPEG",
-        title: "Special Moments",
+        src: "/images/pemira.jpg",
+        title: "Talk & Speak",
         desc: "Highlights from academic & professional journey.",
       },
     ],
@@ -87,8 +87,8 @@ export default function Gallery({ lang }: GalleryProps) {
         desc: "Branding diri & portofolio kreatif.",
       },
       {
-        src: "/images/PEMIRA.JPEG",
-        title: "Momen Berharga",
+        src: "/images/pemira.jpg",
+        title: "Talk & Speak",
         desc: "Dokumentasi perjalanan akademik & profesional.",
       },
     ],
